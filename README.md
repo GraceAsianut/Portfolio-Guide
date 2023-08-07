@@ -1,14 +1,13 @@
 # Portfolio-Guide
-Welcome to my data portfolio! Here, I document a summary of my projects in the data field. 
+Welcome to my data portfolio! Here, I document a summary of some of my projects in the data field. 
 
 ## 📚 Table of Contents
-- [Data Engineering](#data-engineering)
+- [Data Analysis with Excel](#data-analysis-with-excel)
 - [SQL](#sql)
 - [Python](#python)
 - [Tableau](#tableau)
-- [Katie's Guides](#katies-guides)
 
-# Data Engineering
+# Data Analysis with Excel
 
 | Project Link | Completion Date | Tools | Project Description | 
 |---|---|---|---|
