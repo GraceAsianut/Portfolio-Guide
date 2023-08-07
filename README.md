@@ -42,7 +42,7 @@ Welcome to my data portfolio! Here, I document a summary of some of my projects 
 
 | Project Link | Project Description | Dashboard Link |
 |---|---|---|
-| 💸 Sales Dashboard | Transformed data and created new measures on SuperStore Data. Created a dynamic dashboard featuring year-over-year changes in sales and profit by state, manager and segment. Created a light version.| [Dashboard](https://public.tableau.com/app/profile/katie.huang/viz/UnicornCompanies_16502745371460/Unicorns?publish=yes) |
+| 💸 Sales Dashboard | Transformed data and created new measures on SuperStore Data. Created a dynamic dashboard featuring year-over-year changes in sales and profit by state, manager and segment. Created a light version.| [Dashboard](https://public.tableau.com/app/profile/grace.asianut/viz/SalesDashboard_16904113568130/SalesDashboard) |
 | 🚦 Sprocket Central Business Summary Dashboard | This is a business summary dashboard on a company from a Forage Internship, Sprocket Central featuring a customer analysis to give the company a strategic opinion moving forward. | [Dashboard](https://public.tableau.com/app/profile/grace.asianut/viz/BusinessSummarydashboard/Summary) |
 
 ***
